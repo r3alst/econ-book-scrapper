@@ -1,0 +1,4 @@
+node_modules
+bot.json
+.env
+.env*
